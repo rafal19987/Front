@@ -1,0 +1,12 @@
+:root {
+  --black: rgb(21, 21, 21);
+  --green: rgb(78, 225, 100);
+  --darkGrey: rgb(36, 36, 36);
+  --grey: rgb(217, 217, 217);
+  --white: rgb(255, 255, 255);
+
+  --fontXL: 88px;
+  --fontL: 48px;
+  --fontM: 24px;
+  --fontS: 18px;
+}
